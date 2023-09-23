@@ -1,0 +1,12 @@
+input{
+    background: url('input-bg.png') no-repeat;
+    border: none;
+    width: 303px;
+    height: 36px;
+}
+#username{
+    background: url('') no-repeat left;
+}
+#password{
+    background: url('') no-repeat left;
+}
